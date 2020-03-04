@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8685b16-4616-4409-b590-d5b22653f727" name="Default Changelist" comment="" />
+    <list default="true" id="d8685b16-4616-4409-b590-d5b22653f727" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RBTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data-structures/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data-structures/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data-structures/Trie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AVLTree.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YN2vaWupOsjuulUIoyBzy9u1b9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,8 +34,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Trie">
+  <component name="RunManager" selected="Application.AVLTree">
+    <configuration name="AVLTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AVLTree" />
+      <module name="Data-structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Data-structures" />
@@ -41,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AVLTree" />
         <item itemvalue="Application.Trie" />
         <item itemvalue="Application.Main" />
       </list>
@@ -76,24 +96,32 @@
       <screen x="0" y="23" width="1920" height="989" />
     </state>
     <state x="661" y="232" key="#com.intellij.ide.util.MemberChooser/0.23.1920.989@0.23.1920.989" timestamp="1582880101410" />
-    <state width="1364" height="259" key="GridCell.Tab.0.bottom" timestamp="1582876619422">
-      <screen x="0" y="23" width="1920" height="989" />
+    <state width="1289" height="259" key="GridCell.Tab.0.bottom" timestamp="1583137849267">
+      <screen x="0" y="23" width="1920" height="980" />
     </state>
+    <state width="1289" height="259" key="GridCell.Tab.0.bottom/0.23.1920.980@0.23.1920.980" timestamp="1583137849267" />
+    <state width="1364" height="259" key="GridCell.Tab.0.bottom/0.23.1920.982@0.23.1920.982" timestamp="1583117511479" />
     <state width="1482" height="259" key="GridCell.Tab.0.bottom/0.23.1920.984@0.23.1920.984" timestamp="1582784731358" />
     <state width="1364" height="259" key="GridCell.Tab.0.bottom/0.23.1920.989@0.23.1920.989" timestamp="1582876619422" />
-    <state width="1364" height="259" key="GridCell.Tab.0.center" timestamp="1582876619420">
-      <screen x="0" y="23" width="1920" height="989" />
+    <state width="1289" height="259" key="GridCell.Tab.0.center" timestamp="1583137849266">
+      <screen x="0" y="23" width="1920" height="980" />
     </state>
+    <state width="1289" height="259" key="GridCell.Tab.0.center/0.23.1920.980@0.23.1920.980" timestamp="1583137849266" />
+    <state width="1364" height="259" key="GridCell.Tab.0.center/0.23.1920.982@0.23.1920.982" timestamp="1583117511478" />
     <state width="1482" height="259" key="GridCell.Tab.0.center/0.23.1920.984@0.23.1920.984" timestamp="1582784731357" />
     <state width="1364" height="259" key="GridCell.Tab.0.center/0.23.1920.989@0.23.1920.989" timestamp="1582876619420" />
-    <state width="1364" height="259" key="GridCell.Tab.0.left" timestamp="1582876619420">
-      <screen x="0" y="23" width="1920" height="989" />
+    <state width="1289" height="259" key="GridCell.Tab.0.left" timestamp="1583137849265">
+      <screen x="0" y="23" width="1920" height="980" />
     </state>
+    <state width="1289" height="259" key="GridCell.Tab.0.left/0.23.1920.980@0.23.1920.980" timestamp="1583137849265" />
+    <state width="1364" height="259" key="GridCell.Tab.0.left/0.23.1920.982@0.23.1920.982" timestamp="1583117511477" />
     <state width="1482" height="259" key="GridCell.Tab.0.left/0.23.1920.984@0.23.1920.984" timestamp="1582784731356" />
     <state width="1364" height="259" key="GridCell.Tab.0.left/0.23.1920.989@0.23.1920.989" timestamp="1582876619420" />
-    <state width="1364" height="259" key="GridCell.Tab.0.right" timestamp="1582876619421">
-      <screen x="0" y="23" width="1920" height="989" />
+    <state width="1289" height="259" key="GridCell.Tab.0.right" timestamp="1583137849266">
+      <screen x="0" y="23" width="1920" height="980" />
     </state>
+    <state width="1289" height="259" key="GridCell.Tab.0.right/0.23.1920.980@0.23.1920.980" timestamp="1583137849266" />
+    <state width="1364" height="259" key="GridCell.Tab.0.right/0.23.1920.982@0.23.1920.982" timestamp="1583117511479" />
     <state width="1482" height="259" key="GridCell.Tab.0.right/0.23.1920.984@0.23.1920.984" timestamp="1582784731357" />
     <state width="1364" height="259" key="GridCell.Tab.0.right/0.23.1920.989@0.23.1920.989" timestamp="1582876619421" />
   </component>
